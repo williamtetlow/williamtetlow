@@ -1,6 +1,6 @@
 Hey! I'm interested in web tech, web perf and developer tooling.
 
-During the day I work at [getshogun](https://getshogun.com/) where I'm building tools for generating high performance eccommerce websites.
+During the day I work at [Shogun](https://getshogun.com/) where I'm building tools for generating high performance eccommerce websites.
 
 And in my free time I like contributing to Rust based OSS (mainly [SWC](https://github.com/swc-project/swc)).
 
